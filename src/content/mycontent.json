@@ -1,0 +1,56 @@
+{
+	"Title": "Jack2DWrld | Personal Webpage",
+	"Name": "Jack Mkimbo",
+	"Description": [
+		"Javascript Engineer. Front End Developer. Passionate about creative and interactive UI/UX Designs.",
+		"Live to Travel, Learn and Create."
+		
+	],
+	"MainImage": "https://i.imgur.com/a3IqaLM.jpg",
+	"BackgroundURL": "https://www.lefthudson.com/wp-content/uploads/2019/11/1920x1080-black-screen-beautiful-red-and-black-abstract-backgrounds-c2b7e291a0-wallpapertag-ideas-of-1920x1080-black-screen.jpg",
+
+	"AboutImage": "https://imgur.com/PxvQt9I.jpg",
+	"AboutContent": [
+		"I’m a Front End Developer who grinds Javascript to create awesome UIs and visual experiences for web and mobile using the best technologies and tools according to your budget & specifications.",
+		"I have a ton of experience with Front End technologies and tools such as HTML, CSS, SASS, React, Gatsby, Nodejs, GraphQl and Express.",
+		"I am your go-to person for Online Portfolios, Blogs, Agency websites, Ecommerce sites and Mobile apps."
+	],
+
+	"WorkContent": [
+		"I am currently a freelancer working on some side projects. You can contact me for impactful collaborations or for work"
+	],
+	"WorkImage": "https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-developer-768x258.png",
+	"InternshipsStartLine": "Previously, I have interned with :",
+	"InternShips": [{
+			"name": "Kenya Ports Authority as an IT Support Technician",
+			"link": "#"
+		}
+	],
+	"ProjectsStartLine": "Some of the side projects I have done can be found here :",
+	"Projects": [{
+			"name": "Colosoul Music",
+			"link": "#"
+		},
+		{
+			"name": "Mawenzi Computer Systems",
+			"link": "#"
+		},
+		{
+			"name": "Gatsby Personal Webpage",
+			"link": "#"
+		}
+	],
+
+	"CVStartLine": "Have any work for me? Check out my credentials and feel free to reach out we discuss more",
+	"CV": "https://drive.google.com/file/d/1m7mARbDluP6La3-nt2D2T71W4iDeP_lg/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1m7mARbDluP6La3-nt2D2T71W4iDeP_lg/view?usp=sharing",
+
+	"emailid": "mailto:jackmkimbo@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/jackmkimbo/",
+	"wordpress": "#",
+	"facebook": "https://web.facebook.com/Jack.robinz",
+	"github": "https://github.com/mkimbo",
+	"instagram": "https://www.instagram.com/jack_robinz/",
+	"twitter": "https://twitter.com/jackrobinz",
+	"medium": "#"
+}
